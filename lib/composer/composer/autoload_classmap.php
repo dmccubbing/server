@@ -553,7 +553,6 @@ return array(
     'OC\\Files\\Storage\\Wrapper\\PermissionsMask' => $baseDir . '/lib/private/Files/Storage/Wrapper/PermissionsMask.php',
     'OC\\Files\\Storage\\Wrapper\\Quota' => $baseDir . '/lib/private/Files/Storage/Wrapper/Quota.php',
     'OC\\Files\\Storage\\Wrapper\\Wrapper' => $baseDir . '/lib/private/Files/Storage/Wrapper/Wrapper.php',
-    'OC\\Files\\Stream\\Close' => $baseDir . '/lib/private/Files/Stream/Close.php',
     'OC\\Files\\Stream\\Encryption' => $baseDir . '/lib/private/Files/Stream/Encryption.php',
     'OC\\Files\\Stream\\Quota' => $baseDir . '/lib/private/Files/Stream/Quota.php',
     'OC\\Files\\Stream\\StaticStream' => $baseDir . '/lib/private/Files/Stream/StaticStream.php',
